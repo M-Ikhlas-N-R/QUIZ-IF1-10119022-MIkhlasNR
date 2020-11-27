@@ -1,7 +1,14 @@
 package com.minr;
 
 import java.util.Scanner;
-
+/*
+ * @author
+ * Nama              : M Ikhlas N R
+ * Kelas             : IF-1
+ * NIM               : 10119022
+ * Deskripsi Program : Quis Program Kasir Rock n Roll Haircut
+ *
+ */
 public class Main {
     public static void main(String[] args) {
         Customer customer1 = new Customer();
